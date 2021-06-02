@@ -1,9 +1,14 @@
 ## Current
 
-[![LinkedIn GillesRasigade](https://img.shields.io/badge/LinkedIn-GillesRasigade-blue)](https://www.linkedin.com/in/gillesrasigade/)
-[![Gitlab GillesRasigade](https://img.shields.io/badge/Gitlab-GillesRasigade-orange)](https://gitlab.com/GillesRasigade)
+[![LinkedIn GillesRasigade](https://img.shields.io/badge/linkedin-GillesRasigade-blue)](https://www.linkedin.com/in/gillesrasigade/)
+[![Gitlab GillesRasigade](https://img.shields.io/badge/gitlab-GillesRasigade-brightgreen)](https://gitlab.com/GillesRasigade)
+[![Hiring Teale](https://img.shields.io/badge/hiring-teale-ff69b4)](https://www.welcometothejungle.com/fr/companies/teale/jobs)
 
 Starting January 2021, CTO, co-Founder at [teale](https://teale.io).
+
+### Links
+
+[Welcome To The Jungle](https://www.welcometothejungle.com/fr/companies/teale) | [Stackshare](https://stackshare.io/teale/tech) | [teale.io](https://teale.io) | [Youtube](https://www.youtube.com/results?search_query=teale)
 
 
 ### Focus
@@ -19,11 +24,6 @@ Starting January 2021, CTO, co-Founder at [teale](https://teale.io).
 **Security** End-to-end encryption | Data Privacy by Design | RGPD at scale | Encryption Algorithms
 
 **Standards** | Open API 3.0 | JSON Schema
-
-
-### Links
-
-[Welcome To The Jungle](https://www.welcometothejungle.com/fr/companies/teale) | [Stackshare](https://stackshare.io/teale/tech) | [teale.io](https://teale.io) | [Youtube](https://www.youtube.com/results?search_query=teale)
 
 
 ## Previous
