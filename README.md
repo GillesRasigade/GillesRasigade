@@ -1,16 +1,15 @@
-### Hi there 👋
+## Current
 
-<!--
-**GillesRasigade/GillesRasigade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn GillesRasigade](https://img.shields.io/badge/LinkedIn-GillesRasigade-brightgreen)](https://www.linkedin.com/in/gillesrasigade/)
 
-Here are some ideas to get you started:
+Starting January 2021, CTO, co-Founder at [teale](https://teale.io).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Previous
+
+- ex-CTO Chauffeur-Privé / Kapten
+- ex-Software Engineering Director Fastbooking
+- ex-founder, CTO Innitiative Nano / everCAD
+- PhD Physics University Paris Sud 11
+
+## Current Focus
+
